@@ -1,0 +1,31 @@
+h1{
+	font-family: 'Raleway', sans-serif;
+	font-size: 50px;
+	font-style: oblique;
+	line-height: 0.5;
+} 
+h2 {font-size: 34px;
+	font-family: 'Arial', sans-serif;
+	line-height: 0.5;
+	font-weight: normal;
+
+}
+h3 {
+	font-family: 'Arial', sans-serif;
+	font-size: 15px;
+	line-height: 0.5;
+	font-weight:normal;
+
+}
+h4 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 24px;
+	line-height: 0.5;
+	font-weight: normal;
+}
+h5 {
+	font-size: 24px;
+	font-family: 'Arial', sans-serif;
+	line-height: 0.75;
+	font-weight: normal;
+}
