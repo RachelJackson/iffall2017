@@ -1,0 +1,43 @@
+header {
+	margin-bottom: 3rem;
+}
+div p {
+	line-height: 1.6;
+}
+a.see-all {
+	font-size: 0.8em ;
+	text-transform: uppercase;
+}
+h1 {
+	font-size: 2.5rem;
+	font-weight: lighter;
+}
+h2 {
+	font-size: 1rem;
+	text-transform: uppercase;
+}
+img {
+	width:100%;
+}
+div{
+	width:25%;
+}
+a.shows {
+	border: 1px;
+}
+nav .selected a {
+	font-weight:bold;
+	color:black;
+}
+section.cast li {
+	font-size: 0.8rem;
+}
+section.cast li a div{
+	font-weight:bold;
+}
+section.cast li a div:last-child {
+	font-style:italic;
+}
+section.seasons ul li:last-child {
+	.required input: after {content} :"*";
+}
