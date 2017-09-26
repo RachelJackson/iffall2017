@@ -1,0 +1,20 @@
+body {
+	font-family: 'Kaushan Script', cursive;
+	font-size: 12px; /* %, em, rem */
+	text-align:center;
+	background-image: url("smashmouthpic.jpg");
+
+}
+h1 {
+	font-family:'Abril Fatface', cursive;
+	font-size: 50px;
+	text-decoration: underline;
+	color:green;
+}
+h2 {
+	font-family:'Abril Fatface', cursive;
+	font-size: 18px;
+	font-style: italic;
+	color: red;
+
+}
