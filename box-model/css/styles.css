@@ -1,0 +1,146 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Archivo Narrow', sans-serif;
+	background-image: url ("http://dogfood.guru/wp-content/uploads/2016/10/img_5811098e60918.png");
+	
+
+}
+h1 {
+	font-family: 'Archivo Narrow', sans-serif;
+	display:block;
+	text-align:center;
+	font-size:5em;
+	padding-top: 1.9em;
+	text-decoration-color: white;
+	font-color:white;
+}
+h2 {
+	text-align:center;
+	font-size:1.88em;
+	margin-bottom: 0.10em
+	font-color:white;
+}
+p {
+	margin:auto;
+	line-height: 1.2;
+}
+h3 {
+	text-align:center;
+	font-size:2.2em;
+	margin: 0;
+	padding-bottom:33px;
+	color:black;
+
+
+}
+
+div.section_1p {
+	text-align:left;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size:18px;
+	margin-top:0;
+	line-height:1.2;
+
+}
+.img1{
+	float: right;
+	height:300px;
+	width:400px;
+	margin-bottom:55px;
+	margin-left: 40px;
+
+}
+
+
+h1,h2,h3,h4,h4, {
+	font-family: 'Archivo Narrow', sans-serif;
+}
+ section#top_section {
+ 	background-color: rgba(255,0,0,.25);
+	height:420px;
+	font-color: white;
+	font-family: 'Archivo Narrow', sans-serif;
+	background-image: url("http://dogfood.guru/wp-content/uploads/2016/10/img_5811098e60918.png")
+}
+div.column{
+	width: 960px;
+	margin:auto;
+	text-align:left;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size:18px;
+	line-height:1.2;
+}
+
+
+section#second_section {
+	height:600px;
+	padding-top:35px;
+	background-color: rgba(255,0,0,.25);
+}
+
+section#third_section {
+	height:650px;
+	padding-top:45px;
+	background-color: rgba(46, 241, 138, 0.4); 
+	color: rgba(46, 241, 138, 0.4);
+
+}
+div.grid{
+	width:50%;
+	height:150px;
+	margin-bottom:10px;
+	display:inline-block;
+	margin-top:7px;
+}
+div.grid img{
+	width:200px;
+	height:150px;
+	float:left;
+	margin-right:12px;
+
+}
+div.grid h5{
+	font-size:20px;
+	color:black;
+	margin:0;
+	padding:0;
+}
+div.grid p{
+	line-height: 1.2;
+	color:black;
+	padding-left:30px;
+	font-size: 18px;
+	margin-right:30px;
+
+}
+h6 {
+	font-size: 2.6em;
+	text-align:center;
+	color:black;
+	padding-bottom:30px;
+}
+div.phototext {
+	margin-right:12px
+}
+
+section#fourth_section{
+	height:300px;
+	margin-top:70px;
+	padding-top:0px;
+	padding-bottom:100px;
+	background-color: rgba(191, 63, 191, 0.51);
+}
+
+section#fourth_p{
+	margin-left: 280px;
+	font-size: 30px;
+	margin-right:280px;
+	text-align:center;
+	line-height:1;
+
+}
+div.block {
+	width:;
+}
+
