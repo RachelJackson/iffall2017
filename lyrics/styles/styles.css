@@ -1,0 +1,40 @@
+p1 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color:#FB8E78;
+}
+
+h1 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color:#FB8E78;
+	position:left;
+
+}
+
+p2 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color:#FB8E78;
+	position: left;
+	margin:right:600px;
+	float: right;
+	text-align:left;
+
+}
+#lyrics {
+	float:left;
+	width:30%;
+	padding-left:90px;
+	line-height:1.2;
+
+}
+
+#about {
+	float:left;
+	width:30%;
+	padding-left:90px;
+	line-height:1.2;
+}
+
+
+i.fa.fa-facebook-square {
+	font-size:41px;
+}
