@@ -3,6 +3,13 @@ p1 {
 	color:#FB8E78;
 }
 
+#button: {
+	float:right;
+}
+
+#button:hover {
+	opacity:50%;
+}
 h1 {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	color:#FB8E78;
@@ -24,6 +31,8 @@ p2 {
 	width:30%;
 	padding-left:90px;
 	line-height:1.2;
+	z-index:500;
+	background-color:white;
 
 }
 
@@ -32,9 +41,18 @@ p2 {
 	width:30%;
 	padding-left:90px;
 	line-height:1.2;
+	background-color:white;
+	z-index:500;
 }
 
 
 i.fa.fa-facebook-square {
 	font-size:41px;
+}
+
+#hoopstext {
+	position:fixed;
+	margin-left:45px;
+	margin-top:85px;
+
 }
