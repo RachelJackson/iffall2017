@@ -1,0 +1,139 @@
+body, html {
+	height:100%;
+	margin:0;
+	padding:0;
+	font-family: 'Oswald', sans-serif;
+
+
+}
+
+body.nathanforyou1 {
+	background-image: url("nathanforyou1.jpg");
+	position:absolute;
+	background-size:cover;
+	background-repeat: no-repeat;
+	float:left;
+	background-position:top center;
+
+}
+a{
+	text-decoration-line:none;
+	color:snow;
+}
+
+div.nathanforyou1 {
+	width:40px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 3.7em;
+    padding-left: 100px;
+    padding-top: 20px;
+    width: 38%;
+    font-family: 'Oswald', sans-serif;
+    color: darkslateblue;
+    position:top left;
+}
+
+span {
+	color: darkred;
+	opacity:70%;
+}
+
+@media screen and (max-width:950px) {
+	
+	div.nathanforyou1 {
+	width:50%;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1em;
+    padding-left: 100px;
+    padding-top: 20px;
+    font-family: 'Oswald', sans-serif;
+    color: darkslateblue;
+}
+
+	div.nathanforyou2 {
+	width:50%;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1em;
+    padding-left: 100px;
+    padding-top: 20px;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+	}
+	
+	}
+
+
+
+
+
+
+body.nathanforyou2 {
+
+	background-image: url("nathanforyou2.jpg");
+	position:absolute;
+	background-size:cover;
+	background-repeat: no-repeat;
+	float:left;
+	background-position:top center;
+}
+
+div.nathanforyou2 {
+	width:40px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 3.7em;
+    padding-left: 100px;
+    padding-top: 20px;
+    width: 38%;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+
+ }
+
+@media screen and (max-width:950px) {
+	
+div.nathanforyou2 {
+	width:50%;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1em;
+    padding-left: 100px;
+    padding-top: 20px;
+    font-family: 'Oswald', sans-serif;
+    color: white; }
+
+}
+
+body.nathanforyou3 {
+	background-image: url("nathanforyou3.jpg");
+	position:absolute;
+	background-size:cover;
+	background-repeat: no-repeat;
+	float:left;
+	background-position: top center;
+
+}
+
+div.nathanforyou3 {
+	width:40px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 3.7em;
+    padding-left: 100px;
+    padding-top: 20px;
+    width: 38%;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+}
+
+@media screen and (max-width:950px) {
+	
+div.nathanforyou3 {
+	width:50%;
+	font-family: 'Oswald', sans-serif;
+	font-size: 1em;
+    padding-left: 100px;
+    padding-top: 20px;
+    font-family: 'Oswald', sans-serif;
+    color: white; 
+}
+
+}
+
