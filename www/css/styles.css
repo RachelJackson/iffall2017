@@ -1,0 +1,142 @@
+body, html {
+	height:100%;
+	margin:0;
+	padding:0;
+
+
+}
+
+h1 {
+	font-size:150px;
+	font-family: 'Archivo', sans-serif;
+	color: white;
+	position: absolute;
+    padding-left: 630px;
+}
+
+h2 {
+	font-size:23pt;
+	font-family: 'Archivo', sans-serif;
+	color: white;
+	letter-spacing: 2px;
+    padding-left: 970px;
+    padding-top: 270px;
+
+}
+
+h3 {
+	font-size:18px;
+	font-family: 'Archivo', sans-serif;
+	color: white;
+	padding-left:970px;
+	width: 342px;
+    font-weight: normal;
+
+}
+
+h4 {
+	font-size:30pt;
+	font-family: 'Helvetica', sans-serif;
+	color: white;
+	margin-top:0;
+	margin-bottom:0;
+}
+
+h4:hover {
+	filter:opacity(50%);
+}
+
+
+div.description {
+	line-height:20.4pt;
+    letter-spacing: 1.7pt;
+    text-align: right;
+
+}
+
+div.boxed{
+	border:7pt solid white;
+	position: absolute;
+    text-align: center;
+    left: 970px;
+    padding: 0.9em;
+    margin-top:20px;
+    
+}
+
+div.boxed:hover{
+	filter:opacity(50%);
+}
+
+
+
+body.home {
+	background-image: url("homepage.jpg");
+	position:absolute;
+	background-size:cover;
+	background-repeat: no-repeat;
+	float:left;
+	width:auto;
+	background-position:top center;
+}
+
+body.index2 {
+	background-image: url("index2.jpg");
+	position:absolute;
+	background-size:cover;
+	background-repeat:no-repeat;
+	float:left;
+	width:auto;
+	background-position:top center;
+}
+
+div.dropdown{
+
+	
+	
+}
+
+div.bar1, .bar2, .bar3 {
+	width: 50px;
+    height: 7px;
+    background-color: white;
+    margin: 6px 0;
+    float:right;
+    transition: 0.4s
+}
+
+.change .bar1 {
+    -webkit-transform: rotate(-45deg) translate(-9px, 6px) ;
+    transform: rotate(-45deg) translate(-9px, 6px) ;
+}
+
+.change .bar2 {opacity: 0;}
+
+.change .bar3 {
+    -webkit-transform: rotate(45deg) translate(-8px, -8px) ;
+    transform: rotate(45deg) translate(-8px, -8px) ;
+}
+
+div.menu {
+	position: absolute;
+    left: 1250px;
+    top: 45px;
+}
+
+div.menu:hover{
+	filter:opacity(50%);
+}
+
+div.menu-content {
+	display: none;
+	font-family: 'Archivo', sans-serif;
+	font-weight:normal;
+	font-size:9pt;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
