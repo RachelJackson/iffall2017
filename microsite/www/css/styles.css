@@ -81,7 +81,7 @@ body.home {
 }
 
 body.index2 {
-	background-image: url("index2.jpg");
+	background-image: url("background.jpg");
 	position:absolute;
 	background-size:cover;
 	background-repeat:no-repeat;

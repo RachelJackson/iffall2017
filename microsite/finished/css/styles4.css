@@ -1,0 +1,193 @@
+body.index2, html {
+	height:100%;
+	margin:0;
+	padding:0;
+
+
+}
+
+h1 {
+	font-size:95pt;
+	font-family: 'Archivo', sans-serif;
+	color: white;
+	position: absolute;
+    padding-left: 50px;
+    margin-top:150px;
+    text-align:center;
+    letter-spacing:2.9px;
+    line-height:1;
+    width:1381px;
+}
+
+div.spacing{
+	letter-spacing:2.6px;
+}
+
+h2 {
+	font-size:46pt;
+	font-family: 'Archivo', sans-serif;
+	color: white;
+	letter-spacing: 0.0;
+    font-style:italic;
+    text-align:left;
+    margin-top:560px;
+    opacity:0.5;
+    font-style: italic;
+    padding-left:420px;
+
+    
+
+}
+
+
+img.menu{
+	width:73px;
+	padding-left:1240px;
+	padding-top:40px;
+	position:absolute;
+}
+
+a.menu{
+	font-family: 'Archivo', sans-serif;
+	color: white;
+	width:50px;
+	font-size:12px;
+	text-decoration:none;
+	padding-right:200px;
+
+}	
+
+img.southern{
+	width:700px;
+	padding-left:385px;
+	opacity:0.90;
+
+}
+
+h3 {
+	font-size:40px;
+	font-family: 'Helvetica', sans-serif;
+	color: white;
+	padding-left:0px;
+	width: 342px;
+    font-weight: bold;
+    margin-top:0px;
+    margin-left:0px;
+    margin-bottom:0px;
+
+}
+
+
+
+h4{
+	font-size:15pt;
+	font-family: 'Archivo', sans-serif;
+	color: white;
+	font-weight:normal;
+	width:800px;
+	
+}
+
+section{
+	margin-left:350px;
+}
+
+section.content {
+	display:inline-block;
+	width:825px;
+	padding-top:335px;
+	background-color:blue;
+	opacity:50%;
+	margin-left:350px;
+}
+
+div.block1{
+	
+	
+}
+
+div.block2{
+
+}
+
+div.block3{
+
+
+}
+
+div.description {
+
+
+}
+
+div.boxed{
+	border:7pt solid white;
+    text-align: center;
+    padding: 0em;
+    margin-top:20px;
+    margin-left:207px;
+    margin-right:337px;
+    
+}
+
+div.boxed:hover{
+	filter:opacity(50%);
+}
+
+
+
+body.index2 {
+	background-image: url("backgroundsouthern.jpg");
+	position:absolute;
+	background-size:cover;
+	background-repeat: repeat;
+	float:left;
+	width:auto;
+	background-position:top center;
+	background-height:4000px;
+}
+
+
+
+
+.hamburger {
+	display: block;
+    background-image: url(menu.png);
+    width:60px;
+    height:60px;
+    background-color:transparent;
+    background-size:contain;
+    border:none;
+}
+
+div.menu:hover{
+	filter:opacity(50%);
+}
+
+div.menu{
+position:relative;
+z-index:10;
+
+	position: absolute;
+    left: 1250px;
+    top: 45px;
+
+}
+
+
+div.menu-content {
+	display: none;
+	font-family: 'Archivo', sans-serif;
+	font-weight:normal;
+	font-size:9pt;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    overflow: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+
+
+
