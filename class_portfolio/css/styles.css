@@ -1,0 +1,83 @@
+div.R {
+	width:70px
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+
+h1 {
+	font-family: 'EB Garamond', serif;
+	font-size:12pt;
+	font-style:bold;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+	padding-top:12px;
+	text-align:center;
+	background-color:white;
+	z-index:20;
+	border-bottom: 1px solid #000; 
+   line-height: 0.1em;
+   margin: 10px 0 20px;
+}
+
+h1 span {
+	  background:#fff; 
+    padding:0 10px;
+}
+
+img {
+	width:300px;
+	filter:grayscale(100%);
+	padding:70px;
+}
+
+div.contents {
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+
+
+div.box,  {
+	background-color:black;
+	width:300px;
+	background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url(css/hoopsmockup-square.gif);
+    filter: saturate(0%);
+    background-size: 300px 300px;
+    background-position: center;
+    float:left;
+}
+
+img: hover {
+	filter:none;
+}
+
+div.hoops {
+	float:left;
+}
+
+div.hoops {
+
+}
+div.wombat {
+	float:left;
+}
+
+div.wombat:hover {
+	filter:none;
+}
+
+div.nathan {
+	float:left;
+}
+p { 
+width:300px;
+display:block; 
+font-family: 'EB Garamond', serif;
+font-size:9pt;
+margin-left:auto;
+margin-right:auto;}
+
+h2 { font-family: 'EB Garamond', serif; 
+font-size:15pt;}
